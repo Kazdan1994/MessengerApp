@@ -1,5 +1,5 @@
 # MessengerApp
-MessengerApp with RubyonRails
+MessengerApp with RubyonRails and Codecademy
 
 For install this app :
 
